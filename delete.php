@@ -8,7 +8,7 @@ include '../db.php';
 $data = json_decode(file_get_contents("php://input"));
 $id = $data->id;
 
-$stmt = $conn->prepare("DELETE FROM contacts WHERE id = ?");
+$stmt = $conn->prepare("DELETE FROM stock WHERE id = ?");
 $stmt->bind_param("i", $id);
 
 if ($stmt->execute()) {

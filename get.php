@@ -4,7 +4,7 @@ header("Content-Type: application/json");
 
 include '../db.php';
 
-$result = $conn->query("SELECT * FROM contacts ORDER BY created_at DESC");
+$result = $conn->query("SELECT * FROM stock ORDER BY id DESC");
 
 $data = [];
 
