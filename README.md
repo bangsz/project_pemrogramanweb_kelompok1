@@ -9,6 +9,8 @@ link youtube https://youtu.be/P0aEKktu5jk?si=if5rLmWM2y0F5snw
 
 LINK TUGAS/LING REPO MASING MASING, https://github.com/vandi67/TUGAS.git
 
-LINK DAFFA: 
+LINK DAFFA:
+
 https://github.com/Rifad239/deploy-react.git
+
 https://github.com/Rifad239/pertemuan-11.git
