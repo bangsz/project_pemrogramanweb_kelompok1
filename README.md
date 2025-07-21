@@ -4,7 +4,7 @@ anggota
 link tugas/link repo masing2, https://github.com/bangsz/tugas_pemweb.git
 
 
-link youtube https://youtu.be/P0aEKktu5jk?si=A3XZSkDfHH-2n1S3
+link youtube https://youtu.be/P0aEKktu5jk?si=if5rLmWM2y0F5snw
 
 
 LINK TUGAS/LING REPO MASING MASING, https://github.com/vandi67/TUGAS.git
